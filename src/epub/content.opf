@@ -45,9 +45,15 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2010118978</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">The Human Comedy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
+		<dc:description id="description">The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;A Woman of Thirty&lt;/i&gt; is unusual in that the protagonist is only the titular age in one of the six vignettes that make up the novel. As the novel opens, Julie is a young girl in her late teenage years. She and her father are going to see Napoleon and his army as they embark on the campaign that ended with his defeat at Leipzig. Julie is in love with a colonel, which is an unpleasant surprise to her father. He warns her of the man’s many weaknesses and tells her she is not ready for married life, and definitely not with him.&lt;/p&gt;
+			&lt;p&gt;Like most young woman of that age, she does not listen, and quickly finds herself in a marriage with a man who is not what she imagined. The remaining five vignettes drop in on Julie at various points in her life, showing how she is living with the realities of her situation: with her husband, her children, and various others who enter their lives.&lt;/p&gt;
+			&lt;p&gt;The story of Julie d’Aiglemont was a longer project for &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; than most of the other stories of the &lt;a href="https://standardebooks.org/collections/the-human-comedy"&gt;Human Comedy&lt;/a&gt;: it was written across a span of sixteen years.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1950</dc:source>
