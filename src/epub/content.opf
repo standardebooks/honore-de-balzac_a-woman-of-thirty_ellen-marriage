@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Woman of Thirty</dc:title>
 		<meta property="file-as" refines="#title">Woman of Thirty, A</meta>
-		<meta property="dcterms:alternate" refines="#title">A Woman of 30</meta>
+		<meta property="dcterms:alternative" refines="#title">A Woman of 30</meta>
 		<dc:subject id="subject-1">France -- History -- 19th century -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Marriage -- Fiction</dc:subject>
 		<dc:subject id="subject-3">France -- Social life and customs -- 19th century -- Fiction</dc:subject>
