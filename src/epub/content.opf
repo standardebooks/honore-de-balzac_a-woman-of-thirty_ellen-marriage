@@ -51,7 +51,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:abstract>The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.</dc:abstract>
+		<meta property="schema:abstract">The story of a young woman who marries badly, told in several vignettes covering the remainder of her life.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;A Woman of Thirty&lt;/i&gt; is unusual in that the protagonist is thirty years of age in just one of the six vignettes that make up the novel. As the novel opens, Julie is a young girl in her late teenage years. She and her father are going to see Napoleon and his army as they embark on the campaign that ended with his defeat at Leipzig. Julie is in love with a colonel, which is an unpleasant surprise to her father. He warns her of the man’s many weaknesses and tells her she’s not ready for married life—and definitely not married life with him.&lt;/p&gt;
 			&lt;p&gt;Like most young women of that age, she doesn’t listen, and quickly finds herself in a marriage with a man who’s not what she imagined. The remaining five vignettes drop in on Julie at various points in her life, showing how she’s coping with the realities of her situation: with her husband, her children, and the various others who enter their lives.&lt;/p&gt;
