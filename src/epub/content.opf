@@ -31,11 +31,11 @@
 		<dc:title id="title">A Woman of Thirty</dc:title>
 		<meta property="file-as" refines="#title">Woman of Thirty, A</meta>
 		<meta property="dcterms:alternative" refines="#title">A Woman of 30</meta>
-		<dc:subject id="subject-1">France -- History -- 19th century -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Marriage -- Fiction</dc:subject>
-		<dc:subject id="subject-3">France -- Social life and customs -- 19th century -- Fiction</dc:subject>
-		<dc:subject id="subject-4">French fiction -- Translations into English</dc:subject>
-		<dc:subject id="subject-5">Women -- France -- Fiction</dc:subject>
+		<dc:subject id="subject-1">France--History--19th century--Fiction</dc:subject>
+		<dc:subject id="subject-2">Marriage--Fiction</dc:subject>
+		<dc:subject id="subject-3">France--Social life and customs--19th century--Fiction</dc:subject>
+		<dc:subject id="subject-4">French fiction--Translations into English</dc:subject>
+		<dc:subject id="subject-5">Women--France--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
